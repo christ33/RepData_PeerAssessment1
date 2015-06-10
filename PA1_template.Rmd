@@ -4,6 +4,8 @@
 Assessment 1
 =============
 
+Important reminder: Examine the submitted assignment **PA1_template.md** markdown file.
+
 
 ------
 
